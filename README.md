@@ -14,10 +14,14 @@ Millimeter-wave (mmWave) and terahertz (THz) communication systems require large
 
 
 **ML Models Code Package Content**
-1. Run BBoxes\unit3\main_pos_beam.py
-2. Run BBoxes\unit4\main_pos_beam.py
-3. Run Masks\unit3\main.py
-4. Run Masks\unit4\main.py
+1. Run FCNN_on_BBoxes\unit3\main_pos_beam.py
+2. Run FCNN_on_BBoxes\unit4\main_pos_beam.py
+3. Run LSTM_bbox\unit3\LSTM_beam_pred.py
+4. Run LSTM_bbox\unit4\LSTM_beam_pred.py
+5. Run LeNet_on_Masks\unit3\main.py
+6. Run LeNet_on_Masks\unit4\main.py
+7. Run LSTM_mask\unit3\main.py
+8. Run LSTM_mask\unit4\main.py
 
 
 
