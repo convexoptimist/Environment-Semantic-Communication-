@@ -13,7 +13,7 @@ Millimeter-wave (mmWave) and terahertz (THz) communication systems require large
 4. The bounding boxes and mask from Yolov7 can be generated using 'Yolov7_bbox_and_masks_generating_code.ipynb' in the repository https://github.com/convexoptimist/Environment-Semantic-Aided-Communication/tree/main
 
 
-**Code Package Content**
+**ML Models Code Package Content**
 1. Run FCNN_on_BBoxes\unit3\main_pos_beam.py
 2. Run FCNN_on_BBoxes\unit4\main_pos_beam.py
 3. Run LeNet_on_Masks\unit3\main.py
